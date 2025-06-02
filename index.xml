@@ -6,11 +6,11 @@
       <description>Last 10 notes on Bivek Learns</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Matplotlib</title>
-    <link>https://https://bivekk51.github.io/quartz/Matplotlib</link>
-    <guid>https://https://bivekk51.github.io/quartz/Matplotlib</guid>
-    <description>Basic Matplotlib Plot Below is an example of simple matplotlib plot using arrays import matplotlib.pyplot as mp import numpy as np p=np.array([100,200,300]) d=np.array([10,7,5]) mp.plot(d,p,marker=&#039;o&#039;) mp.xlabel(&quot;Demand&quot;) mp.ylabel(&quot;Price&quot;) mp.savefig(&quot;plot.png&quo...</description>
-    <pubDate>Sun, 01 Jun 2025 15:25:49 GMT</pubDate>
+    <title>Introduction to Blockchain(A short guide on how it works)</title>
+    <link>https://https://bivekk51.github.io/quartz/Introduction-to-Blockchain(A-short-guide-on-how-it-works)</link>
+    <guid>https://https://bivekk51.github.io/quartz/Introduction-to-Blockchain(A-short-guide-on-how-it-works)</guid>
+    <description>Blockchain Blockchain in simple words is a distributed(decentralized) digital ledger(block) which contains records of various transactions The transactions are recorded in various computers(also called nodes) so that the data can’t be manipulated easily.</description>
+    <pubDate>Mon, 02 Jun 2025 13:12:46 GMT</pubDate>
   </item><item>
     <title>Welcome to Quartz</title>
     <link>https://https://bivekk51.github.io/quartz/</link>
